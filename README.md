@@ -1,2 +1,2 @@
 # Stone-Paper-Scissors-Game
-This game is also known as scissors rock paper and scissors paper stone. If you are unfamiliar with this quite popular game then do not worry, I will share the rules of the game also. Let's start with the rules first before moving on to the rock paper scissors java program code.
+This game is known as scissors rock paper and scissors paper stone. In childhood we have played this game with our hands but now as we are grown up and have surrounded ourself with new technologies and devices then why not to bring our childhood memories back. This game is build in Java Programming Language.
